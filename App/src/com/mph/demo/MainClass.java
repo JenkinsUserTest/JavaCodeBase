@@ -6,6 +6,7 @@ public class MainClass {
 	public static void main(String[] args) {
 		System.out.println("--Developer 1 changes--");
 		System.out.println("New Change");
+		System.out.println("New change 1");
 
 	}
 
